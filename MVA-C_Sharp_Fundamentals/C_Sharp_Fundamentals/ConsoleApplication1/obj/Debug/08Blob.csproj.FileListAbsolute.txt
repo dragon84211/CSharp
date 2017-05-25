@@ -1,0 +1,6 @@
+C:\Users\drago\Documents\`Local\Workspaces\MVA-C_Sharp_Fundamentals\C_Sharp_Fundamentals\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\drago\Documents\`Local\Workspaces\MVA-C_Sharp_Fundamentals\C_Sharp_Fundamentals\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\drago\Documents\`Local\Workspaces\MVA-C_Sharp_Fundamentals\C_Sharp_Fundamentals\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\drago\Documents\`Local\Workspaces\MVA-C_Sharp_Fundamentals\C_Sharp_Fundamentals\ConsoleApplication1\obj\Debug\08Blob.csprojResolveAssemblyReference.cache
+C:\Users\drago\Documents\`Local\Workspaces\MVA-C_Sharp_Fundamentals\C_Sharp_Fundamentals\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\drago\Documents\`Local\Workspaces\MVA-C_Sharp_Fundamentals\C_Sharp_Fundamentals\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

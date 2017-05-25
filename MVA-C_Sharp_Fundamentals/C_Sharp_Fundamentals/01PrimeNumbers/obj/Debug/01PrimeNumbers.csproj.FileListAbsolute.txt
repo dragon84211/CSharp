@@ -1,0 +1,6 @@
+C:\Users\drago\Documents\`Local\Workspaces\MVA-C_Sharp_Fundamentals\C_Sharp_Fundamentals\01PrimeNumbers\bin\Debug\01PrimeNumbers.exe.config
+C:\Users\drago\Documents\`Local\Workspaces\MVA-C_Sharp_Fundamentals\C_Sharp_Fundamentals\01PrimeNumbers\bin\Debug\01PrimeNumbers.exe
+C:\Users\drago\Documents\`Local\Workspaces\MVA-C_Sharp_Fundamentals\C_Sharp_Fundamentals\01PrimeNumbers\bin\Debug\01PrimeNumbers.pdb
+C:\Users\drago\Documents\`Local\Workspaces\MVA-C_Sharp_Fundamentals\C_Sharp_Fundamentals\01PrimeNumbers\obj\Debug\01PrimeNumbers.csprojResolveAssemblyReference.cache
+C:\Users\drago\Documents\`Local\Workspaces\MVA-C_Sharp_Fundamentals\C_Sharp_Fundamentals\01PrimeNumbers\obj\Debug\01PrimeNumbers.exe
+C:\Users\drago\Documents\`Local\Workspaces\MVA-C_Sharp_Fundamentals\C_Sharp_Fundamentals\01PrimeNumbers\obj\Debug\01PrimeNumbers.pdb

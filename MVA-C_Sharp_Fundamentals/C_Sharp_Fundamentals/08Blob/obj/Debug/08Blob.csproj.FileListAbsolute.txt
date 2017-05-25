@@ -1,0 +1,6 @@
+C:\Users\drago\Documents\`Local\Workspaces\MVA-C_Sharp_Fundamentals\C_Sharp_Fundamentals\08Blob\bin\Debug\08Blob.exe.config
+C:\Users\drago\Documents\`Local\Workspaces\MVA-C_Sharp_Fundamentals\C_Sharp_Fundamentals\08Blob\bin\Debug\08Blob.exe
+C:\Users\drago\Documents\`Local\Workspaces\MVA-C_Sharp_Fundamentals\C_Sharp_Fundamentals\08Blob\bin\Debug\08Blob.pdb
+C:\Users\drago\Documents\`Local\Workspaces\MVA-C_Sharp_Fundamentals\C_Sharp_Fundamentals\08Blob\obj\Debug\08Blob.exe
+C:\Users\drago\Documents\`Local\Workspaces\MVA-C_Sharp_Fundamentals\C_Sharp_Fundamentals\08Blob\obj\Debug\08Blob.pdb
+C:\Users\drago\Documents\`Local\Workspaces\MVA-C_Sharp_Fundamentals\C_Sharp_Fundamentals\08Blob\obj\Debug\08Blob.csprojResolveAssemblyReference.cache

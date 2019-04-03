@@ -32,7 +32,8 @@ give do |present1, present2|
     puts present1, present2
 end
 
-#####The each method loops through each item in the array and yields it to the block
+#####The each method loops through each item in the array and yields it to the block.  
+#####And |param| is the obj passed from the "each" method, which I can then use in the block
 puts "-----"
 ["a", "b", "c"].each { |param| puts param }
 
